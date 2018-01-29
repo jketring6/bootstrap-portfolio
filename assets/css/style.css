@@ -31,6 +31,11 @@ h3 {
 	text-align: center;
 }
 
+.profile-pic {
+	float: left;
+	padding-right: 20px;
+}
+
 .col-md-3 {
 	padding: 20px;
 	border-color: #dddddd;
@@ -67,6 +72,22 @@ h4 {
 	padding: 15px;
 	margin-bottom: 50px;
 	text-align: center;
+}
+
+p {
+	text-align: left;
+}
+
+.contactPs {
+	font-family: Georgia, Times, Times New Roman, serif;
+	padding: 10px;
+	padding-left: 0px;
+	font-weight: bold;	
+}
+
+#contactContext {
+	width: 100%;
+	text-align: left;
 }
 
 .buffer {
